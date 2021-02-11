@@ -5,6 +5,7 @@
 
 <!-- badges: start -->
 
+[![R-CMD-check](https://github.com/tmsalab/bayesefa/workflows/R-CMD-check/badge.svg)](https://github.com/tmsalab/bayesefa/actions)
 [![Package-License](http://img.shields.io/badge/license-GPL%20(%3E=2)-brightgreen.svg?style=flat)](http://www.gnu.org/licenses/gpl-2.0.html)
 [![CRAN Version
 Badge](http://www.r-pkg.org/badges/version/bayesefa)](https://cran.r-project.org/package=bayesefa)
